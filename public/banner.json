@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "campaignName": "Jacket Donation",
+    "details": "Providing warm jackets for children from low-income groups."
+  },
+  {
+    "id": 2,
+    "campaignName": "Sweater Donation",
+    "details": "Collecting warm sweaters for elderly and helpless people. "
+  },
+  {
+    "id": 3,
+    "campaignName": "Blanket Donation",
+    "details": "Distributing blankets to underprivileged children."
+  }
+]
